@@ -3,7 +3,7 @@ name: Hello World!
 on:
   push:
     branches:
-      - trial
+      - main
 
 jobs:
   hello_world_job:
