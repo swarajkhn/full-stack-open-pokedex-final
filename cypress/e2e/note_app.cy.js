@@ -1,4 +1,4 @@
-import * as cy from 'cypress';
+import * as cy from 'cypress'
 
 describe('Pokedex', function() {
   it('front page can be opened', function() {
